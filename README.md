@@ -17,5 +17,5 @@
 
 ## Languages and Tools
 
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-- <img src="[c](https://github.com/seoyerin1130/seoyerin1130/assets/127005534/cf4ce1b6-3a2c-4b58-8903-88d7f9f2292d)"/></a>&nbsp
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+- <img src="[c](https://github.com/seoyerin1130/seoyerin1130/assets/127005534/e834664a-13cd-4ac2-97f0-90a96a70a5ac)&logoColor=white"/></a>
