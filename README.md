@@ -24,7 +24,3 @@ data scientist 희망
 <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=gray"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Pycharm-A8B9CC?style=flat-square&logo=Pycharm&logoColor=white"/></a>
-
-##
-[![yerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyerin1130&&show_icons=true&theme=radical)
-](url)
