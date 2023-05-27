@@ -26,4 +26,5 @@ data scientist 희망
 <a href="#"><img src="https://img.shields.io/badge/Pycharm-A8B9CC?style=flat-square&logo=Pycharm&logoColor=white"/></a>
 
 ##
-![yerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyerin1130&&show_icons=true&theme=radical)
+[![yerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyerin1130&&show_icons=true&theme=radical)
+](url)
