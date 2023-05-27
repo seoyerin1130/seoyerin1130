@@ -14,8 +14,10 @@
 - EDA
 
 ## career planning
+gap
 
 ## Languages and Tools
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-- <img src="[c](https://github.com/seoyerin1130/seoyerin1130/assets/127005534/e834664a-13cd-4ac2-97f0-90a96a70a5ac)&logoColor=white"/></a>
+##
+![yerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyerin1130&&show_icons=true&theme=radical)
