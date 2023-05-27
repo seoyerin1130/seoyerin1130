@@ -14,7 +14,7 @@
 - EDA
 
 ## career planning
-gap
+data scientist 희망
 
 ## Languages and Tools
 <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
