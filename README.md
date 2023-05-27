@@ -1,4 +1,5 @@
-### Hi there 👋
+# Seo yerin
+## _사람을 위한 개발자_
 
 <!--
 **seoyerin1130/seoyerin1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
