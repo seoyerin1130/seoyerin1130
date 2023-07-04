@@ -9,7 +9,7 @@
 ## currently studying at
 
 - language : Python, C
-- maching & deep learning
+- machine & deep learning
 - FAST api
 - EDA
 
